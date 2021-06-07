@@ -20,7 +20,8 @@ Algoritmo Ejercicio9
 		SiNo
 		Fin Si
 		
-		
+		Escribir "Ingrese la temperatura 1"
+		leer temp1
 	Fin Mientras
 	
 FinAlgoritmo
