@@ -9,6 +9,9 @@ Algoritmo Ejercicio9
 			ContadorT1 = ContadorT1 + 1
 		SiNo
 		Fin Si
+		Escribir " Ingrese la temperatura 2 "
+		leer temp2
+		
 		
 	Fin Mientras
 	
