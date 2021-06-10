@@ -18,7 +18,7 @@ public class Ejercicio9{
 		System.out.println("Ingresa la temperatura 1");
 		 tm1= sc.nextDouble();
 		 totalTemp =tm1;
-		 	System.out.println(totalTemp);
+		 	
 
 		 if (tm1 !=0) {
 
@@ -32,7 +32,7 @@ public class Ejercicio9{
 					System.out.println("Ingresa la temperatura 2");
 					tm2= sc.nextDouble();	
 					totalTemp = totalTemp + tm2;
-					System.out.println(totalTemp);
+					
 	
 	
 					
@@ -40,7 +40,7 @@ public class Ejercicio9{
 					System.out.println("Ingresa la temperatura 1");
 					tm1= sc.nextDouble();
 					totalTemp = totalTemp + tm1;
-					System.out.println(totalTemp);
+					
 
 			}
 		
